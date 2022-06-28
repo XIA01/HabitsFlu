@@ -23,4 +23,15 @@ git log -p
 git log --pretty="parámetros de formato"
 Cómo hacer que Git no monitoree archivos, a través de .gitignore
 Que no debemos realizar commits, es decir, guardar un estado, de nuestra aplicación que no esté funcionando.*/
+/* :Q enter para salir del git log*/
+
+/*Lo que son los repositorios remotos
+Cómo crear un repositorio de Git sin una copia de los archivos (con --bare) para usar como servidor;
+Cómo agregar links a repositorios remotos, con el comando git remote add;
+Cómo descargar un repositorio por primera vez clonándolo con el comando git clone;
+Cómo enviar nuestros cambios a un repositorio remoto, con git push;
+Cómo actualizar nuestro repositorio con los datos en el repositorio remoto, usando git pull;
+Qué es GitHub y para qué sirve;
+Cómo crear un repositorio en GitHub;
+Cómo agregar un repositorio de GitHub como repositorio remoto.*/
 
