@@ -13,3 +13,14 @@ Simplemente escribe los siguientes comandos (estando en la carpeta del repositor
 git config --local user.name "Tu nombre aquí"
 git config --local user.email "Tu@email.aqui”
 La configuración de usuario es una opción que se puede usar para configurar el usuario que se usará para almacenar los cambios en el repositorio.*/
+
+/*Que un commit es la forma de guardar un estado o versión de nuestro código;
+Cómo agregar archivos para commitear con git add;
+Cómo commitear archivos usando el comando git commit;
+Cómo verificar el historial de commits, a través de git log y algunas de sus opciones:
+git log --oneline
+git log -p
+git log --pretty="parámetros de formato"
+Cómo hacer que Git no monitoree archivos, a través de .gitignore
+Que no debemos realizar commits, es decir, guardar un estado, de nuestra aplicación que no esté funcionando.*/
+
