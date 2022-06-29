@@ -1,0 +1,29 @@
+[33mcommit 128a243dfa4442ff77309863d826d5fca093060c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Matias0111 <latinoy1link@gmail.com>
+Date:   Tue Jun 28 19:19:17 2022 -0300
+
+    Ver si funciona ignorar datos.js porque me lo esta copiando cuando debia ignorarlo
+
+[33mcommit 7fb6e885c96d635ccfb62367da8b63b9b83e3445[m[33m ([m[1;31mservidorlocal2/master[m[33m)[m
+Author: Matias0111 <latinoy1link@gmail.com>
+Date:   Tue Jun 28 18:51:34 2022 -0300
+
+    Agregando gitignore
+
+[33mcommit e43f2bcdcc186e21c0bab7fa68716627397873da[m
+Author: Matias Soria <latinoy1link@gmail.com>
+Date:   Tue Jun 28 18:20:57 2022 -0300
+
+    Agregado tutorial de configuracion de mail en git
+
+[33mcommit 76e6a9555d53b5e0aef9e62279560956402bec6c[m
+Author: Matias Soria <latinoy1link@gmail.com>
+Date:   Tue Jun 28 18:17:58 2022 -0300
+
+    Arreglado acento y agregada carita
+
+[33mcommit 87dad48c334c3c6c2cb1a868c8869f59678be533[m
+Author: Matias Soria <latinoy1link@gmail.com>
+Date:   Tue Jun 28 18:15:40 2022 -0300
+
+    Creando archivo index.html con lista de cursillos
